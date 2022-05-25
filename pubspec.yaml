@@ -1,7 +1,8 @@
 name: system_screenshot
 description: Take a native screenshot from the system interface
 version: 0.0.1
-homepage:
+homepage: https://github.com/SwissCheese5/system_screenshot/
+repository: https://github.com/SwissCheese5/system_screenshot/
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
