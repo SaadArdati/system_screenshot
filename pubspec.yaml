@@ -1,6 +1,6 @@
 name: system_screenshot
 description: Take native screenshots of the entire screen from the underlying system interface.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/SwissCheese5/system_screenshot/
 repository: https://github.com/SwissCheese5/system_screenshot/
 
